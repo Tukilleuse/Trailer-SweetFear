@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/scene5_NiveauHiver.unity
+- path: Assets/Scene/scene9_NiveauEte.unity
   isLoaded: 1
   isActive: 1
